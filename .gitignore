@@ -105,7 +105,8 @@ bin/
 db.sqlite3
 lib/
 lib64
-manage.py
 pip-selfcheck.json
 pyvenv.cfg
 share/
+
+API KEY = ba5a1ec979bc502b8782673f590b0c78d11a62a2c83aba10081732fa33401744
