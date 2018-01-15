@@ -21,6 +21,6 @@ def index(request):
 
 
         elif text == "1":
-            response = "END My Phone number is {0} Idriso".format(phone_number)
+            response = "END My Phone number is {0}".format(phone_number)
 
         return HttpResponse(response)
